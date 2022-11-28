@@ -1,0 +1,48 @@
+C:\Users\mahmo\source\repos\Final project\Final project\bin\Debug\Final project.exe.config
+C:\Users\mahmo\source\repos\Final project\Final project\bin\Debug\Final project.exe
+C:\Users\mahmo\source\repos\Final project\Final project\bin\Debug\Final project.pdb
+C:\Users\mahmo\source\repos\Final project\Final project\obj\Debug\Final project.csproj.AssemblyReference.cache
+C:\Users\mahmo\source\repos\Final project\Final project\obj\Debug\Final project.csproj.SuggestedBindingRedirects.cache
+C:\Users\mahmo\source\repos\Final project\Final project\obj\Debug\Final_project.Form1.resources
+C:\Users\mahmo\source\repos\Final project\Final project\obj\Debug\Final_project.Properties.Resources.resources
+C:\Users\mahmo\source\repos\Final project\Final project\obj\Debug\Final project.csproj.GenerateResource.cache
+C:\Users\mahmo\source\repos\Final project\Final project\obj\Debug\Final project.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\source\repos\Final project\Final project\obj\Debug\Final project.exe
+C:\Users\mahmo\source\repos\Final project\Final project\obj\Debug\Final project.pdb
+C:\Users\mahmo\source\repos\Final project\Final project\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\mahmo\source\repos\Final project\Final project\obj\Debug\Final project.csproj.CopyComplete
+C:\Users\mahmo\source\repos\Final project\Final project\obj\Debug\Final_project.Form2.resources
+C:\Users\mahmo\source\repos\Final project\Final project\obj\Debug\Final_project.Form3.resources
+D:\facaulty of cs\4th semester\Final project\Final project\bin\Debug\Final project.exe.config
+D:\facaulty of cs\4th semester\Final project\Final project\bin\Debug\Final project.exe
+D:\facaulty of cs\4th semester\Final project\Final project\bin\Debug\Final project.pdb
+D:\facaulty of cs\4th semester\Final project\Final project\obj\Debug\Final project.csproj.AssemblyReference.cache
+D:\facaulty of cs\4th semester\Final project\Final project\obj\Debug\Final project.csproj.SuggestedBindingRedirects.cache
+D:\facaulty of cs\4th semester\Final project\Final project\obj\Debug\Final_project.Form1.resources
+D:\facaulty of cs\4th semester\Final project\Final project\obj\Debug\Final_project.Form10.resources
+D:\facaulty of cs\4th semester\Final project\Final project\obj\Debug\Final_project.Form2.resources
+D:\facaulty of cs\4th semester\Final project\Final project\obj\Debug\Final_project.Form3.resources
+D:\facaulty of cs\4th semester\Final project\Final project\obj\Debug\Final_project.Form4.resources
+D:\facaulty of cs\4th semester\Final project\Final project\obj\Debug\Final_project.Form8.resources
+D:\facaulty of cs\4th semester\Final project\Final project\obj\Debug\Final_project.Form9.resources
+D:\facaulty of cs\4th semester\Final project\Final project\obj\Debug\Final_project.Properties.Resources.resources
+D:\facaulty of cs\4th semester\Final project\Final project\obj\Debug\Final project.csproj.GenerateResource.cache
+D:\facaulty of cs\4th semester\Final project\Final project\obj\Debug\Final project.csproj.CoreCompileInputs.cache
+D:\facaulty of cs\4th semester\Final project\Final project\obj\Debug\Final project.csproj.CopyComplete
+D:\facaulty of cs\4th semester\Final project\Final project\obj\Debug\Final project.exe
+D:\facaulty of cs\4th semester\Final project\Final project\obj\Debug\Final project.pdb
+C:\Users\fatom\Downloads\Final project1 (1)\Final project\Final project\bin\Debug\Final project.exe.config
+C:\Users\fatom\Downloads\Final project1 (1)\Final project\Final project\obj\Debug\Final project.exe
+C:\Users\fatom\Downloads\Final project1 (1)\Final project\Final project\obj\Debug\Final project.pdb
+C:\Users\fatom\Downloads\Final project1 (1)\Final project\Final project\bin\Debug\Final project.exe
+C:\Users\fatom\Downloads\Final project1 (1)\Final project\Final project\bin\Debug\Final project.pdb
+C:\Users\fatom\Downloads\Final project1 (1)\Final project\Final project\obj\Debug\Final project.csprojResolveAssemblyReference.cache
+C:\Users\fatom\Downloads\Final project1 (1)\Final project\Final project\obj\Debug\Final_project.Form1.resources
+C:\Users\fatom\Downloads\Final project1 (1)\Final project\Final project\obj\Debug\Final_project.Form10.resources
+C:\Users\fatom\Downloads\Final project1 (1)\Final project\Final project\obj\Debug\Final_project.Form2.resources
+C:\Users\fatom\Downloads\Final project1 (1)\Final project\Final project\obj\Debug\Final_project.Form3.resources
+C:\Users\fatom\Downloads\Final project1 (1)\Final project\Final project\obj\Debug\Final_project.Form4.resources
+C:\Users\fatom\Downloads\Final project1 (1)\Final project\Final project\obj\Debug\Final_project.Form8.resources
+C:\Users\fatom\Downloads\Final project1 (1)\Final project\Final project\obj\Debug\Final_project.Form9.resources
+C:\Users\fatom\Downloads\Final project1 (1)\Final project\Final project\obj\Debug\Final_project.Properties.Resources.resources
+C:\Users\fatom\Downloads\Final project1 (1)\Final project\Final project\obj\Debug\Final project.csproj.GenerateResource.Cache
