@@ -57,4 +57,3 @@ This application is a comprehensive ticket booking system for Premier League foo
 - C# (.NET Framework)
 - Windows Forms
 - SQL Database
-- Jupyter Notebook (for data analysis and management)
